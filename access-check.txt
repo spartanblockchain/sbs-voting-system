@@ -1,0 +1,5 @@
+I am making this file so everyone can sign off that they have write access and know how to use basic git functionality. 
+Please clone this repository, navigate to the dev branch, add your name below, commit the change, and push the repository back to Github. Let me (Sean) know if you have any questions. Thanks!
+
+Sean
+
